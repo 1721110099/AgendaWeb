@@ -1,0 +1,2 @@
+INSERT INTO usuarios(email,password,nombre,primer_apellido,segundo_apellido,rol,status) VALUES('dan1@gmail.com','df02bfeda772ad7b17992eed7f416a71','Daniel','López','Delgadillo','administrador','activo'),
+('Jos12@gmail.com','f3d83c0509198f0f76fbb67729f9f0e4','José','Esquivel','Oliver','usuario','activo');
